@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="Churchill 3112 East Balcony 1500x501.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="Churchill 3112 East Balcony 1500x501.jpg">
+ <img alt="Shows the Mississippi River between Minneapolis and St Paul in Minnesota" src="Churchill 3112 East Balcony 1500x501.jpg">
+</picture>
