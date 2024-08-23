@@ -1,18 +1,22 @@
 ## Hi there 👋
 
-I'm Lorie, an application support analyst/engineer.
+I'm Lorie, an application support analyst and system operations engineer.
 
+- 😄 Pronouns: she/her/hers
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning AWS SysOps Administration and GitHub Foundations
 - 👯 I’m looking to collaborate on a project that would benefit my local community
+- 🌱 I’m currently learning AWS SysOps Administration, GitHub Foundations, and ITIL4 Foundations
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-- 😄 Pronouns: she/her/hers
+
+---
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66c7aefe92ec1a8a73cde36e?variant=light&roadmaps=devops%2Cgit-github%2Cpython%2Caws)](https://roadmap.sh)
 
 ---
 
