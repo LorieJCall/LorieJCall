@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me 👋
 
 I'm Lorie, an application support analyst and system operations engineer.
 
@@ -16,7 +16,7 @@ I'm Lorie, an application support analyst and system operations engineer.
 
 ---
 
-[![roadmap.sh](https://roadmap.sh/card/wide/66c7aefe92ec1a8a73cde36e?variant=light&roadmaps=devops%2Cgit-github%2Cpython%2Caws)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66c7aefe92ec1a8a73cde36e?variant=light)](https://roadmap.sh)
 
 ---
 
@@ -41,5 +41,5 @@ I'm Lorie, an application support analyst and system operations engineer.
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="A View From A Balcony 1500x501.jpg">
  <source media="(prefers-color-scheme: light)" srcset="A View From A Balcony 1500x501.jpg">
- <img alt="Shows the Mississippi River between Minneapolis and St Paul in Minnesota" src="A View From A Balcony 1500x501.jpg">
+ <img alt="Shows the Mississippi River in Minnesota between Minneapolis and St Paul" src="A View From A Balcony 1500x501.jpg">
 </picture>
